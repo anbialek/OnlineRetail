@@ -1,5 +1,3 @@
 notebook
-re
-collections
 faker
-sqlalchemy 
+sqlalchemy

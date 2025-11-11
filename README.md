@@ -71,11 +71,12 @@ Il se compose de 3 pages :
 3. Les visuels sont entièrement interactifs
 
 ## Présentation du projet
-| ![Page1](images/PBI_OnlineRetail_page1.png) | ![Page2](images/PBI_OnlineRetail_page2.png) | ![Page3]images/PBI_OnlineRetail_page3.png)  |
+![Page1](images/PBI_OnlineRetail_page1.png)
+![Page2](images/PBI_OnlineRetail_page2.png)
+![Page3](images/PBI_OnlineRetail_page3.png)
 
 Une courte démonstration du rapport a été enregistrée à l’aide de **ScreenToGif** afin d’illustrer les interactions dans Power BI.
-![Power BI demo 1](images/PBI_Desktop_Animation_OnlineRetail1.gif) | ![Power BI demo 2](images/PBI_Desktop_Animation_OnlineRetail2.gif)
-
+| ![Power BI demo 1](images/PBI_Desktop_Animation_OnlineRetail1.gif) | ![Power BI demo 2](images/PBI_Desktop_Animation_OnlineRetail2.gif) |
 
 ---
 
